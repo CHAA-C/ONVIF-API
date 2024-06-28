@@ -20,9 +20,9 @@ ONVIF-API is my intern project desighned to use an ONVIF Protocol with IP camera
 Tested on Postman
 
 - **DISCOVER DEVICE**
-Method: POST
-URL: http://localhost:3000/api/onvif/discoverDevice
-Body:   "START_IP_ADDRESS" : "10.54.x.0"
+- Method: POST
+- URL: http://localhost:3000/api/onvif/discoverDevice
+- Body:   - "START_IP_ADDRESS" : "10.54.x.0"
 
 - **GET USERS**
 Method: POST
