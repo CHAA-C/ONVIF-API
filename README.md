@@ -4,7 +4,7 @@
 
 ## Overview
 
-ONVIF-API is my intern project desighned to use an ONVIF Protocol with IP camera and NVR (Network Video Record) by using REST API. Currently test on Dahua and Hikvison. My API is use some funvtion from "https://github.com/YoshieraHuang/node-onvif-ts"
+ONVIF-API is my intern project desighned to use an ONVIF Protocol with IP camera and NVR (Network Video Record) by using REST API. Currently test on Dahua and Hikvison. My API is use some function from "https://github.com/YoshieraHuang/node-onvif-ts"
 ## Features
 
 - **DISCOVERY DEVICE**: Discovery ONVIF device by give your desire start IP address and it will search a ONVIF devices. 
