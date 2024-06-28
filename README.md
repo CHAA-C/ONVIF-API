@@ -16,3 +16,15 @@ ONVIF-API is my intern project desighned to use an ONVIF Protocol with IP camera
 - **GET REPLAY URIs**: Retrieve all replay stream uris that aviable on ONVIF device.
 - **GET EVENT PROPERTIES**: Retrieve all event that support for each ONVIF device.
 - **PTZ CONTROL**: Control your ONVIF devices that support PTZ control.
+
+## Usage
+Tested on Postman
+
+- **DISCOVER DEVICE**
+- Method: POST
+- URL: http://localhost:3000/api/onvif/discoverDevice
+- Body: "START_IP_ADDRESS" : "10.54.x.0"
+
+
+
+
