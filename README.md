@@ -61,12 +61,12 @@ Body:   "addr" : "10.54.x.0",
         "pass" : "xxxxx",
 
 - **GET REPLAY URIs**
-Method: POST
-URL: http://localhost:3000/api/onvif/replay/getReplayURI
-Body:   "addr" : "10.54.x.0",
-        "user" : "xxxxx",
-        "pass" : "xxxxx",
-        "starttime" : "YY_MM_DD_HH_MM_SS",
+Method: POST \n
+URL: http://localhost:3000/api/onvif/replay/getReplayURI \n
+Body:   "addr" : "10.54.x.0", \n
+        "user" : "xxxxx", \n
+        "pass" : "xxxxx", \n
+        "starttime" : "YY_MM_DD_HH_MM_SS", \n
         "endtime" : "YY_MM_DD_HH_MM_SS",
 
 - **GET EVENT PROPERTIES**
