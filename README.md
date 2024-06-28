@@ -15,3 +15,4 @@ ONVIF-API is my intern project desighned to use an ONVIF Protocol with IP camera
 - **GET RECORDING STATUS**: Retrieve all recording status that aviable on ONVIF device.
 - **GET REPLAY URIs**: Retrieve all replay stream uris that aviable on ONVIF device.
 - **GET EVENT PROPERTIES**: Retrieve all event that support for each ONVIF device.
+- **PTZ CONTROL**: Control your ONVIF devices that support PTZ control.
